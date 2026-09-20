@@ -24,6 +24,8 @@ Read the [iFruit Privacy Policy](https://h3082445617-design.github.io/iFruit/pri
 - No analytics or advertising
 - No public data export
 - Local profiles only; no live multi-device cloud sync
+- English and Simplified Chinese interface switch; original source text remains unchanged
+- Update notices link to official releases; updates are never silently installed
 - Not medical or dietary advice
 
 This repository distributes official compiled releases and public documentation. Application source code and signing material are not published here.
